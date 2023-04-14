@@ -1,5 +1,7 @@
 # ravgay-maymunluk
 
+RAVGAR CANIM V12 BOTLARI KURMAYIP YARDIM ISTEDIGIN GÜNLERİ NE ZAMAN UNUTTUN O YARDIM İSTEDİGİNİN İSMİNİ İSTERSE YAZARIM BURAYA
+
 v14 bot yaptım ortak falan diyorsun da koduğumun malı bari bota invite komutu yapsaydın salak stata menü eklemiş
 ayrı yapamadın mı 
 sen owsla editlemeye devam et sen
